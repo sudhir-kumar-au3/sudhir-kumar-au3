@@ -7,7 +7,7 @@
 - NodeJs
 - MongoDB
 - DynamoDB
-- Blockchain (truffle, ganache and solidity)
+- Blockchain (truffle, ganache and solidity)[Learning]
 
 📫 Reach me at: sudhir.kr23.1995@gmail.com
 
