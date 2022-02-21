@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on MERN Technology.
+- 🔭 I’m currently working on MERN Technology and also learning blockchain and python.
 ### Technology stack:
 - ReactJs
 - NodeJs
