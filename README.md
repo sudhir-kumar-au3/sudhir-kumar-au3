@@ -6,7 +6,7 @@
 - ReactJs
 - NodeJs
 - MongoDB
-- DynamoDB
+- AWS (DynamoDB, Lambda, s3, ec2)
 - Blockchain (truffle, ganache and solidity)[Learning]
 
 📫 Reach me at: sudhir.kr23.1995@gmail.com
