@@ -235,6 +235,13 @@ Reusable user registration and authentication template for Node.js applications.
 ## 🚀 Current Focus
 
 ```typescript
+interface DeveloperProfile {
+  currentlyWorking: string[];
+  learning: string[];
+  lookingToCollaborate: string[];
+  askMeAbout: string[];
+}
+
 const sudhirKumar: DeveloperProfile = {
   currentlyWorking: [
     "🏢 Building enterprise automation solutions",
@@ -265,12 +272,10 @@ const sudhirKumar: DeveloperProfile = {
 
 ### 💼 Open for Opportunities
 
-```diff
-+ Full-time positions
-+ Freelance projects
-+ Open source collaboration
-+ Technical consulting
-```
+✅ Full-time positions  
+✅ Freelance projects  
+✅ Open source collaboration  
+✅ Technical consulting
 
 </div>
 
