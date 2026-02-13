@@ -1,11 +1,18 @@
 <div align="center">
-  
-# 👋 Hi, I'm Sudhir Kumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sudhir+Kumar;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;Cloud+%26+Blockchain+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 
 ### Full Stack Developer | MERN Stack Specialist | Cloud Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/sudhir-kumar-au3?label=Follow&style=social)](https://github.com/sudhir-kumar-au3)
-[![Email](https://img.shields.io/badge/Email-sudhir.kr23.1995%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sudhir.kr23.1995@gmail.com)
+<p>
+  <a href="https://github.com/sudhir-kumar-au3">
+    <img src="https://img.shields.io/github/followers/sudhir-kumar-au3?label=Follow&style=for-the-badge&logo=github&color=blue" alt="GitHub followers"/>
+  </a>
+  <a href="mailto:sudhir.kr23.1995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sudhir-kumar-au3&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
 
 🚀 Building scalable web applications | ☁️ AWS Cloud Architecture | 🔗 Blockchain Explorer
 
@@ -13,10 +20,34 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Stack & Skills](#️-tech-stack--skills)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [GitHub Trophies](#-github-trophies)
+- [Activity & Contributions](#-activity--contributions)
+- [Current Focus](#-current-focus)
+- [Let's Connect](#-lets-connect)
+
+---
+
 ## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 > Passionate Full Stack Developer with a focus on creating robust, scalable solutions using modern technologies.
 
+```yaml
+name: Sudhir Kumar
+role: Full Stack Developer
+focus: MERN Stack & Cloud Architecture
+location: India
+experience: Building enterprise-grade applications
+```
+
+**What I Do:**
 - 💼 Specialized in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🌐 Building enterprise-grade applications with **TypeScript**
 - ☁️ Architecting cloud solutions with **AWS** (Lambda, DynamoDB, S3, EC2)
@@ -25,117 +56,228 @@
 - 📱 Experience with **WhatsApp Integration** and messaging platforms
 - ⚡ Committed to clean code, API design, and optimal performance
 
+<br clear="both"/>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</details>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Blockchain
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+</details>
 
-</div>
+<details open>
+<summary><b>💾 Databases</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔗 Blockchain</b></summary>
+<br>
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+</details>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎨 [Developer Portfolio](https://github.com/sudhir-kumar-au3/developer-portfolio)
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Developer Portfolio
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/sudhir-kumar-au3/developer-portfolio)
+
 Modern, responsive portfolio website built with React and TypeScript featuring sleek UI components.
-- **Tech:** React, TypeScript, Vite, Tailwind CSS
-- **Status:** Active Development
 
-### 🤖 [Enterprise Automation](https://github.com/sudhir-kumar-au3/enterprise-automatio)
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS`  
+**Status:** 🟢 Active Development
+
+</td>
+<td width="50%">
+
+### 🤖 Enterprise Automation
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/sudhir-kumar-au3/enterprise-automatio)
+
 Full-stack enterprise automation platform with calendar management and workflow automation.
-- **Tech:** TypeScript, React, Node.js, Docker
-- **Features:** Calendar integration, RESTful APIs, Docker deployment
-- **Status:** Active Development
 
-### 💬 [WhatsApp Gupshup Integration](https://github.com/sudhir-kumar-au3/whatsapp-gupshup-integration)
+**Tech Stack:** `TypeScript` `React` `Node.js` `Docker`  
+**Status:** 🟢 Active Development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 WhatsApp Gupshup Integration
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/sudhir-kumar-au3/whatsapp-gupshup-integration) ![Stars](https://img.shields.io/github/stars/sudhir-kumar-au3/whatsapp-gupshup-integration?style=social)
+
 WhatsApp messaging integration using Gupshup API for automated communication.
-- **Tech:** Node.js, Express.js, WhatsApp API
-- **Stars:** ⭐ 1
 
-### 📝 [Gallivanters Tale - Blogging Platform](https://github.com/sudhir-kumar-au3/Gallivanters-tale)
+**Tech Stack:** `Node.js` `Express.js` `WhatsApp API`
+
+</td>
+<td width="50%">
+
+### 📝 Gallivanters Tale
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/sudhir-kumar-au3/Gallivanters-tale)
+
 Full-featured blogging application with user authentication and content management.
-- **Tech:** MERN Stack, REST APIs
-- **Features:** User auth, post management, responsive design
+
+**Tech Stack:** `MERN Stack` `REST APIs`  
+**Features:** User auth, post management, responsive design
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📦 <b>More Projects</b></summary>
+<br>
 
 ### 🔐 [Signup Boilerplate](https://github.com/sudhir-kumar-au3/signup-boilerplate)
 Reusable user registration and authentication template for Node.js applications.
 - **Tech:** Node.js, Mongoose, Express.js
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhir-kumar-au3&show_icons=true&theme=radical&hide_border=true)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudhir-kumar-au3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhir-kumar-au3&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir-kumar-au3&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir-kumar-au3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhir-kumar-au3&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhir-kumar-au3&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+### 🎯 Contribution Highlights
+
+<div align="center">
+
+| 🔨 Repositories | 💡 Contributions | 🎯 Projects | 🌱 Learning |
+|:---------------:|:---------------:|:----------:|:----------:|
+| **35+** | **Active** | **Multiple** | **Daily** |
 
 </div>
+
+- ✨ **35+ Repositories** showcasing diverse projects and skills
+- 💡 **Active Contributor** in full-stack development
+- 🎯 **Problem Solver** with multiple assignment challenges completed
+- 🌱 **Continuous Learner** exploring new technologies and best practices
 
 ---
 
 ## 🚀 Current Focus
 
-```javascript
-const sudhirKumar = {
+```typescript
+interface DeveloperProfile {
+  currentlyWorking: string[];
+  learning: string[];
+  lookingToCollaborate: string[];
+  askMeAbout: string[];
+}
+
+const sudhirKumar: DeveloperProfile = {
   currentlyWorking: [
-    "Building enterprise automation solutions",
-    "Developing modern portfolio applications",
-    "Exploring advanced AWS services"
+    "🏢 Building enterprise automation solutions",
+    "💼 Developing modern portfolio applications",
+    "☁️ Exploring advanced AWS services"
   ],
   learning: [
-    "Advanced TypeScript patterns",
-    "Blockchain development (Solidity)",
-    "Python automation and scripting",
-    "Cloud-native architectures"
+    "📘 Advanced TypeScript patterns",
+    "⛓️ Blockchain development (Solidity)",
+    "🐍 Python automation and scripting",
+    "🏗️ Cloud-native architectures",
+    "🔐 Security best practices"
   ],
   lookingToCollaborate: [
-    "Open source projects",
-    "Full-stack applications",
-    "Cloud-based solutions"
+    "🌟 Open source projects",
+    "🚀 Full-stack applications",
+    "☁️ Cloud-based solutions",
+    "🔗 Blockchain initiatives"
+  ],
+  askMeAbout: [
+    "MERN Stack", "AWS", "TypeScript", 
+    "REST APIs", "Docker", "Blockchain"
   ]
 };
 ```
 
----
+<div align="center">
 
-## 📈 Contribution Highlights
+### 💼 Open for Opportunities
 
-- 🔨 **35+ Repositories** showcasing diverse projects and skills
-- 💡 **Active Contributor** in full-stack development
-- 🎯 **Problem Solver** with multiple assignment challenges completed
-- 🌱 **Continuous Learner** exploring new technologies
+✅ Full-time positions  
+✅ Freelance projects  
+✅ Open source collaboration  
+✅ Technical consulting
+
+</div>
 
 ---
 
@@ -143,8 +285,13 @@ const sudhirKumar = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sudhir.kr23.1995%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhir.kr23.1995@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sudhir--kumar--au3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhir-kumar-au3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhir.kr23.1995@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhir-kumar-au3)
+
+<!-- Add your LinkedIn and Portfolio URLs when available
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+-->
 
 </div>
 
@@ -152,10 +299,16 @@ const sudhirKumar = {
 
 <div align="center">
 
-### 💡 "Building the future, one commit at a time"
+### 💡 "Building the future, one commit at a time" 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudhir-kumar-au3&color=blueviolet&style=flat-square)
+<!-- Add your Buy Me A Coffee URL when available
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_BUY_ME_A_COFFEE_URL)
+-->
 
-⭐ **If you find my work interesting, consider following or starring my repositories!** ⭐
+<br>
+
+**⭐ If you find my work interesting, consider following or starring my repositories! ⭐**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
