@@ -293,8 +293,6 @@ const sudhirKumar: DeveloperProfile = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 -->
 
-### 📧 **Email:** sudhir.kr23.1995@gmail.com
-
 </div>
 
 ---
